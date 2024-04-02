@@ -1,0 +1,67 @@
+Maunendra Sankar Desarkar
+Head (AI) & Associate Professor
+Ph.D: IIT Kharagpur
+Recommender Systems
+Information Retrieval
+Machine Learning
+
+
+Nitin Saurabh
+Assistant Professor
+Ph.D: IMSc Chennai
+Theoretical Computer Science
+Especially in Complexity Theory
+Analysis of Boolean Functions
+
+Aravind N.R.
+Position: Associate Professor
+Department(s):
+Computer Science & Engineering
+Ph.D: The Institute of Mathematical Sciences, Chennai
+Research Interests:
+Algorithms
+Graph theory
+Combinatorics
+Theoretical Computer Science
+
+Praveen Tammana
+Assistant professor
+Ph.D: The University of Edinburgh, UK
+Systems and Networking
+Network Security
+Software-Defined Networking
+
+Rajesh Kedia
+Assistant professor
+Ph.D: IIT Delhi
+Computer Architecture
+Embedded Systems
+VLSI Design Automation
+
+Ramakrishna Upadrasta
+Associate Professor
+Ph.D: University of Paris-Sud (11)/INRIA, Paris
+Domain Specific Programming Languages for Parallelization
+LLVM Optimizations
+Improvement of Scalability of Tools in Polyhedral Compilation
+
+Rameshwar Pratap
+Assistant Professor
+Ph.D: Chennai Mathematical Institute
+Algorithms in Machine Learning
+Theoretical Computer Science
+
+Sathya Peri
+Professor
+Ph.D: University of Texas at Dallas
+Parallel Computing
+Distributed Systems
+Algorithm analysis
+
+
+Shirshendu Das
+Assistant Professor
+Ph.D: IIT Guwahati
+Computer Architecture
+Hardware Security
+Emerging Memory Technologies
